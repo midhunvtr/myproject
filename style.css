@@ -1,0 +1,128 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+    /* index.html style starts here */
+#logo1{
+    float: right;
+    width: 17%;
+    height: 17%;
+}
+
+
+#target{
+    float: inline-start;
+}
+.carousel-inner{
+    padding: .25%;
+}
+.aside{ 
+    width: 32%;
+    border: 2px solid black;
+    float: right;
+    margin-top: .5em;
+    margin-right: .5em;
+    background-color: cadetblue;
+    height: 35.5em;
+    
+}
+h3{
+    margin-left: 38%;
+}
+#atham{
+    margin-left: 20%;
+}
+#content{
+    margin-left: 30%;
+
+}
+header{
+    
+    background-color: tomato;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+button{
+    border: 1px solid red;
+    
+}
+#button{
+    font-size: 1em;
+    margin-top: 2em;
+    margin-left: 2em;
+    
+    text-align: right;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* index.html style ends here */
+
+
+.text{
+    margin: 5px;
+    border: 10px solid white;
+    
+}
+.description{
+    width: 32%;
+    border: 2px solid black;
+    float: right;
+    margin-top: .5em;
+    margin-right: 5em;
+    background-color: burlywood;
+    height: 20em;
+
+}
+#dropdownMenuButton2{
+    color: rgb(22, 3, 3);
+}
+.text1{
+    margin: 5px;
+    border: 10px solid white;
+    color: white;
+}
+/* login.html style starts here */
+.login{
+    float: right;
+    margin-right: 30px;
+    
+    margin-top: 7em;
+    background-color: salmon;
+    padding: 30px;
+   
+    
+}
+#kuthira{
+     height: 25em;
+       /* margin-left: 25em;
+        margin-top: 7em;
+         */
+}
+#cap{
+    color:  white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* login.html style ends here */
+
+/* sign.html style starts here */
+ .signup{
+    float: right;
+    margin-right: 10px;
+    
+    
+    background-color: salmon;
+    padding: 10px;
+   
+
+ }
+/* style.html style ends here */
